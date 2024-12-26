@@ -1,0 +1,121 @@
+{
+  "id": "2943783",
+  "name": "vant+iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "iconfont-",
+  "description": "在vant内使用iconfont",
+  "glyphs": [
+    {
+      "icon_id": "8865537",
+      "name": "衣服",
+      "font_class": "yifu",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "7852191",
+      "name": "服装icon纯色版_T恤",
+      "font_class": "fuzhuangiconchunseban_Txu",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "17868590",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "6684370",
+      "name": "关于我们",
+      "font_class": "guanyuwomen",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "8300928",
+      "name": "待收货",
+      "font_class": "daishouhuo",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "2202",
+      "name": "家居",
+      "font_class": "jiaju",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2206",
+      "name": "时尚",
+      "font_class": "shishang",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2209",
+      "name": "配饰",
+      "font_class": "peishi",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "2210",
+      "name": "鞋子",
+      "font_class": "xiezi",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "2211",
+      "name": "包包",
+      "font_class": "baobao",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "30433",
+      "name": "deliver",
+      "font_class": "deliver",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "30435",
+      "name": "pay",
+      "font_class": "pay",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "10941794",
+      "name": "工艺",
+      "font_class": "gongyi",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "21243180",
+      "name": "钱包",
+      "font_class": "qianbao1",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "17795302",
+      "name": "订单完成",
+      "font_class": "complete",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    }
+  ]
+}

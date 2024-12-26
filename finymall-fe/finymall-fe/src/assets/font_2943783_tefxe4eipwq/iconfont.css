@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2943783 */
+  src: url('iconfont.woff2?t=1639384054773') format('woff2'),
+       url('iconfont.woff?t=1639384054773') format('woff'),
+       url('iconfont.ttf?t=1639384054773') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconfont-yifu:before {
+  content: "\e620";
+}
+
+.iconfont-fuzhuangiconchunseban_Txu:before {
+  content: "\e605";
+}
+
+.iconfont-fenxiang:before {
+  content: "\e60c";
+}
+
+.iconfont-bofang:before {
+  content: "\e624";
+}
+
+.iconfont-guanyuwomen:before {
+  content: "\e682";
+}
+
+.iconfont-daishouhuo:before {
+  content: "\e615";
+}
+
+.iconfont-jiaju:before {
+  content: "\e600";
+}
+
+.iconfont-shishang:before {
+  content: "\e601";
+}
+
+.iconfont-peishi:before {
+  content: "\e602";
+}
+
+.iconfont-xiezi:before {
+  content: "\e603";
+}
+
+.iconfont-baobao:before {
+  content: "\e604";
+}
+
+.iconfont-deliver:before {
+  content: "\e671";
+}
+
+.iconfont-pay:before {
+  content: "\e673";
+}
+
+.iconfont-gongyi:before {
+  content: "\e635";
+}
+
+.iconfont-qianbao1:before {
+  content: "\e654";
+}
+
+.iconfont-complete:before {
+  content: "\e677";
+}
+
